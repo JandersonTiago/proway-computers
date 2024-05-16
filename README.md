@@ -1,5 +1,6 @@
 # ProwayComputers
 
+Este é um projeto de exemplo que demonstra o uso do Angular CLI para criar uma aplicação web.
 Este projeto foi gerado com a versão 14.2.13 do [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Servidor de Desenvolvimento
